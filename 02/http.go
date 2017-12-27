@@ -4,7 +4,7 @@ import (
 	"net"
 	"fmt"
 
-	"http-in-go/simple_http"
+	"http-in-go/02/simple_http"
 )
 
 func main() {
